@@ -24,7 +24,7 @@ It demonstrates my ability to work with **GetX state management**, create **resp
 
 | My Account | Bottom Navigation | GetX Structure |
 |------------|-------------------|----------------|
-| ![Account](https://github.com/user-attachments/assets/81a5bf1d-df76-45bc-9d73-2706880aed95) | ![Nav](https://github.com/user-attachments/assets/86e2ab4c-23fa-43a4-9a5c-f7da7e19fc32) | *(See folder structure below)* |
+| ![Account](https://github.com/user-attachments/assets/81a5bf1d-df76-45bc-9d73-2706880aed95) | ![Nav](https://github.com/user-attachments/assets/86e2ab4c-23fa-43a4-9a5c-f7da7e19fc32) 
 
 ---
 
