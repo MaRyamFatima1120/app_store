@@ -51,19 +51,7 @@ It demonstrates my ability to work with **GetX state management**, create **resp
 
 ## 📂 Folder Structure
 
-```
-lib/
- ├── global_variable.dart
- ├── validation.dart
- ├── src/
- │   ├── getx_binding/
- │   ├── model/
- │   ├── routes/
- │   ├── service/
- │   ├── themes/
- │   └── view/
- └── main.dart
-```
+<img width="953" height="296" alt="image" src="https://github.com/user-attachments/assets/fba75173-65f7-4a30-a6d1-ee34a3ea4ec9" />
 
 ---
 
@@ -77,7 +65,22 @@ flutter run
 ```
 
 ---
+ ## 🤝 Contributing
+If you'd like to suggest improvements or report issues, feel free to open an issue or pull request.
 
-## 📧 Contact
-**Contributor**: Maryam Fatima  
-📩 Email: maryamfatimanavtcc@gmail.com
+ ## 📧 Contact
+Developer: MaRyam F.
+
+Email: maryamfatimanavtcc@gmail.com
+
+Portfolio: [Soon]
+
+📄 License
+This project is not open-source.
+
+You may not use, copy, or distribute this code without written permission.
+
+To license this project for personal or commercial use, please contact:
+
+📧  maryamfatimanavtcc@gmail.com
+
