@@ -22,8 +22,8 @@ It demonstrates my ability to work with **GetX state management**, create **resp
 |------------|----------------|-----------|
 | ![Categories](https://github.com/user-attachments/assets/2dba0900-61f4-402a-acc0-04510f52a9cc) | ![Details](https://github.com/user-attachments/assets/5b74c9ab-cdb3-489f-b90f-96bc228206db) | ![Favorites](https://github.com/user-attachments/assets/77a70d99-294d-44c1-a1da-887d33b757c8) |
 
-| My Account | Bottom Navigation | GetX Structure |
-|------------|-------------------|----------------|
+| My Account | Bottom Navigation |
+|------------|-------------------|
 | ![Account](https://github.com/user-attachments/assets/81a5bf1d-df76-45bc-9d73-2706880aed95) | ![Nav](https://github.com/user-attachments/assets/86e2ab4c-23fa-43a4-9a5c-f7da7e19fc32) 
 
 ---
